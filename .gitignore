@@ -1,0 +1,11 @@
+*#
+*-
+*.#*
+*.swp
+*~
+.idea/
+.rvmrc
+config/database.yml
+*.html
+bin/
+pik/
